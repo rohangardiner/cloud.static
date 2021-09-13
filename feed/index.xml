@@ -1,0 +1,465 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Cloudland</title>
+	<atom:link href="/cloud.static/feed/" rel="self" type="application/rss+xml" />
+	<link>/cloud.static/</link>
+	<description></description>
+	<lastBuildDate>Tue, 07 Sep 2021 03:55:24 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+
+<image>
+	<url>/cloud.static/wp-content/uploads/2021/09/cloud-logo-1-150x150.png</url>
+	<title>Cloudland</title>
+	<link>/cloud.static/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Crashplan</title>
+		<link>/cloud.static/crashplan/</link>
+		
+		<dc:creator><![CDATA[healthit]]></dc:creator>
+		<pubDate>Thu, 30 May 2019 03:13:17 +0000</pubDate>
+				<category><![CDATA[Cloud]]></category>
+		<guid isPermaLink="false">/cloud.static/?p=259</guid>
+
+					<description><![CDATA[<p>We like to have two backup methods operational at any business to minimise the risk of data loss. Ideally we have something like Shadowprotect saving&#8230;</p>
+<p>The post <a rel="nofollow" href="/cloud.static/crashplan/">Crashplan</a> appeared first on <a rel="nofollow" href="/cloud.static/">Cloudland</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="259" class="elementor elementor-259" data-elementor-settings="[]">
+						<div class="elementor-inner">
+							<div class="elementor-section-wrap">
+							<section class="elementor-section elementor-top-section elementor-element elementor-element-2a3dcbb elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2a3dcbb" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-488fd1b" data-id="488fd1b" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-4cf691a elementor-widget elementor-widget-text-editor" data-id="4cf691a" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<p>We like to have two backup methods operational at any business to minimise the risk of data loss. Ideally we have something like Shadowprotect saving an image of the whole of each server to on-site storage, and an online backup of your important data.</p><p><span style="text-decoration: underline;"><a href="/shadowprotect">For a discussion on Shadowprotect, click here</a></span></p><p>Our online backup using Crashplan Pro E has the following benefits:</p><ul><li>Backups are point in time and completely unlimited. You can backup anything on your computer and it will keep every copy you send to it.</li><li>Backups can be encrypted prior to leaving your computer, nobody can access your data without your passphrase and / or key file. *</li><li>Data is stored in Sydney, at no point does it leave Australia.</li><li>Backups are setup to report to you weekly and anytime there is a problem, even if it hasn’t backed up in x days.</li></ul><p>Possible cons to any online backup:</p><ul><li>* Don’t lose the encryption passphrase and / or key file. If you do there is no way to restore your data. Yes we’ll happily keep a copy safe for you.</li><li>Bandwidth – You’ll need enough of it to upload backups overnight and may have to watch your upload data limit. Any reasonably new business plan should be fine.</li><li>The first backup may take many days. If your data set is huge it can be “seeded” by sending the data on physical storage.</li></ul><p>We see online backups, properly set up, as an essential service.</p><p>Costs are low, $20 per month, per computer backed up.</p>					</div>
+						</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+						</div>
+						</div>
+					</div>
+		<p>The post <a rel="nofollow" href="/cloud.static/crashplan/">Crashplan</a> appeared first on <a rel="nofollow" href="/cloud.static/">Cloudland</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Shadowprotect</title>
+		<link>/cloud.static/shadowprotect/</link>
+		
+		<dc:creator><![CDATA[healthit]]></dc:creator>
+		<pubDate>Thu, 30 May 2019 03:10:24 +0000</pubDate>
+				<category><![CDATA[Cloud]]></category>
+		<guid isPermaLink="false">/cloud.static/?p=256</guid>
+
+					<description><![CDATA[<p>We like to have two backup methods operational at any business to minimise the risk of data loss. Ideally we have something like Shadowprotect saving&#8230;</p>
+<p>The post <a rel="nofollow" href="/cloud.static/shadowprotect/">Shadowprotect</a> appeared first on <a rel="nofollow" href="/cloud.static/">Cloudland</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="256" class="elementor elementor-256" data-elementor-settings="[]">
+						<div class="elementor-inner">
+							<div class="elementor-section-wrap">
+							<section class="elementor-section elementor-top-section elementor-element elementor-element-814435b elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="814435b" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-4712710" data-id="4712710" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-a04f8ab elementor-widget elementor-widget-text-editor" data-id="a04f8ab" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<p>We like to have two backup methods operational at any business to minimise the risk of data loss. Ideally we have something like Shadowprotect saving an image of the whole of each server to on-site storage, and an online backup of your important data.</p><p>Shadowprotect is best in class backup software that takes an image of an entire drive of a computer. </p><p>For a discussion on our online backup please see <span style="text-decoration: underline;"><a href="/crashplan">Crashplan Pro E Benefits</a></span>.</p><p>Benefits of Shadowprotect:</p><div><ul><li>It’s super fast and is able to backup as often as every 15 minutes (although we generally spread this out to 1 or 2 hours) .</li><li>On a server with adequate performance you will not notice any delay during a backup.</li><li>Reporting can be setup so that you know backups have happened and are alerted if anything is wrong.</li><li>In the event of a disaster, a Shadowprotect backup allows an entire server to be restored quickly, saving many hours of rebuild time.</li><li>Properly setup, you can boot a backup as a virtual machine and use this as a business continuity tool.</li></ul><p>Possible issues with large, on-site backups:</p><ul><li>You need plenty of storage to keep multiple backups of your server. Generally we like to have either a dedicated “spool” drive in the server or a NAS (Network Attached Storage device). </li><li>While they can be replicated off-site, this is cumbersome and / or requires additional licensed software.</li></ul><p>If business continuity / disaster recovery are time critical we can also offer Datto – an appliance available that makes your Shadowprotect style backups immediately accessible in the cloud. This functionality is tested daily with screenshots of your DR environment sent to you if required.</p><p>Please <span style="text-decoration: underline;"><a class="external-link" href="/contact" target="_blank" rel="nofollow noopener" data-ext-link-init="true">Contact us</a></span> for more details on Shadowprotect or Datto.</p></div>					</div>
+						</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+						</div>
+						</div>
+					</div>
+		<p>The post <a rel="nofollow" href="/cloud.static/shadowprotect/">Shadowprotect</a> appeared first on <a rel="nofollow" href="/cloud.static/">Cloudland</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Scanning</title>
+		<link>/cloud.static/scanning/</link>
+		
+		<dc:creator><![CDATA[healthit]]></dc:creator>
+		<pubDate>Thu, 23 May 2019 23:23:51 +0000</pubDate>
+				<category><![CDATA[Cloud]]></category>
+		<guid isPermaLink="false">/cloud.static/?p=185</guid>
+
+					<description><![CDATA[<p>So you have a scanner attached to your computer or your local network but your application is in the sky? How do you send images&#8230;</p>
+<p>The post <a rel="nofollow" href="/cloud.static/scanning/">Scanning</a> appeared first on <a rel="nofollow" href="/cloud.static/">Cloudland</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="185" class="elementor elementor-185" data-elementor-settings="[]">
+						<div class="elementor-inner">
+							<div class="elementor-section-wrap">
+							<section class="elementor-section elementor-top-section elementor-element elementor-element-41dbcf8 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="41dbcf8" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-c4b61d5" data-id="c4b61d5" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-9615f89 elementor-widget elementor-widget-text-editor" data-id="9615f89" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<p>So you have a scanner attached to your computer or your local network but your application is in the sky? How do you send images to it.</p><p>There are a few ways.</p><p>Firstly it’s important to make sure you are scanning as frugally as possible. This is to do with file size. An A4 letter should be scanned at no more than 200dpi and in black and white. Colour should be used only as required. A single colour page takes up the room of approximately 100 black and white pages. Scanning everything in colour will eventually make for a bloated and slow cloud server.</p><p>If you only do occasional scanning, you’ll find that you can copy and paste a scanned document.</p><p>For most users, we setup a free Dropbox system. This gives you a syncing tool installed on your local computer and the server. You scan to the Dropbox on your computer and seconds later the scans are on the cloud server, ready to import into your application.</p><p>Thirdly we can supply TSScan, a third party software product that interfaces your scanner with the cloud server so you can use it as if it were directly attached.</p><p><a href="/contact">Contact us</a> to discuss which method is right for you.</p>					</div>
+						</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+						</div>
+						</div>
+					</div>
+		<p>The post <a rel="nofollow" href="/cloud.static/scanning/">Scanning</a> appeared first on <a rel="nofollow" href="/cloud.static/">Cloudland</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Printers</title>
+		<link>/cloud.static/printers/</link>
+		
+		<dc:creator><![CDATA[healthit]]></dc:creator>
+		<pubDate>Thu, 23 May 2019 23:17:41 +0000</pubDate>
+				<category><![CDATA[Cloud]]></category>
+		<guid isPermaLink="false">/cloud.static/?p=182</guid>
+
+					<description><![CDATA[<p>Printing from a cloud server can be a challenge. Most “good” printers will work with a little setup. We are happy to supply or recommend&#8230;</p>
+<p>The post <a rel="nofollow" href="/cloud.static/printers/">Printers</a> appeared first on <a rel="nofollow" href="/cloud.static/">Cloudland</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="182" class="elementor elementor-182" data-elementor-settings="[]">
+						<div class="elementor-inner">
+							<div class="elementor-section-wrap">
+							<section class="elementor-section elementor-top-section elementor-element elementor-element-e53d706 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="e53d706" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-d5985a6" data-id="d5985a6" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-e1ea24a elementor-widget elementor-widget-text-editor" data-id="e1ea24a" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<p>Printing from a cloud server can be a challenge. Most “good” printers will work with a little setup.</p><p>We are happy to supply or recommend printers that we know will work well. If you would like to purchase your own, here are a few considerations:</p>					</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-a7c1cc0 elementor-widget elementor-widget-eael-feature-list" data-id="a7c1cc0" data-element_type="widget" data-widget_type="eael-feature-list.default">
+				<div class="elementor-widget-container">
+					<div class="-icon-position-left -tablet-icon-position-left -mobile-icon-position-left">
+			<ul id="eael-feature-list-a7c1cc0" class="eael-feature-list-items circle stacked ">
+			                <li class="eael-feature-list-item elementor-repeater-item-399b4d2">
+                    
+						<div class="eael-feature-list-icon-box">
+							<div class="eael-feature-list-icon-inner">
+
+								<span class="eael-feature-list-icon fl-icon-0">
+
+		<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 64 64" aria-labelledby="title" aria-describedby="desc"><title>Message App</title><desc>A line styled icon from Orion Icon Library.</desc><path data-name="layer2" d="M38 42v16a4 4 0 0 1-4 4H8a4 4 0 0 1-4-4V6a4 4 0 0 1 4-4h22M4 10h24M4 48h34" fill="none" stroke="#00aed1" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></path><circle data-name="layer2" cx="21" cy="55" r="1" fill="none" stroke="#00aed1" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></circle><path data-name="layer1" d="M59.4 2H30.6A2.6 2.6 0 0 0 28 4.6v18.8a2.6 2.6 0 0 0 2.6 2.6H38v7l7-7h14.4a2.6 2.6 0 0 0 2.6-2.6V4.6A2.6 2.6 0 0 0 59.4 2z" fill="none" stroke="#1778dd" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></path><circle data-name="layer1" cx="45" cy="14" r="1" fill="none" stroke="#1778dd" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></circle><circle data-name="layer1" cx="37" cy="14" r="1" fill="none" stroke="#1778dd" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></circle><circle data-name="layer1" cx="53" cy="14" r="1" fill="none" stroke="#1778dd" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></circle></svg>								</span>
+							</div>
+						</div>
+						<div class="eael-feature-list-content-box">
+							<h3 class="eael-feature-list-title"							>Compatibility</h3						>
+						<p class="eael-feature-list-content">Make sure the printer is compatible with Windows Server. Some smaller printers and multi-function devices are not.</p>
+						</div>
+
+					</li>
+				                <li class="eael-feature-list-item elementor-repeater-item-6dbf4be">
+                    
+						<div class="eael-feature-list-icon-box">
+							<div class="eael-feature-list-icon-inner">
+
+								<span class="eael-feature-list-icon fl-icon-1">
+
+		<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 64 64" aria-labelledby="title" aria-describedby="desc"><title>Close</title><desc>A line styled icon from Orion Icon Library.</desc><path data-name="layer2" fill="none" stroke="#00aed1" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M2 6h60v12H2zm0 12v40h60V18"></path><circle data-name="layer2" cx="8" cy="12" r="1" fill="none" stroke="#00aed1" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></circle><circle data-name="layer2" cx="15" cy="12" r="1" fill="none" stroke="#00aed1" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></circle><circle data-name="layer2" cx="22" cy="12" r="1" fill="none" stroke="#00aed1" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></circle><path data-name="layer1" fill="none" stroke="#1778dd" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M40 30L24 46m16 0L24 30"></path></svg>								</span>
+							</div>
+						</div>
+						<div class="eael-feature-list-content-box">
+							<h3 class="eael-feature-list-title"							>Difficulty</h3						>
+						<p class="eael-feature-list-content">"Wireless" is at present, another name for "fiddly".</p>
+						</div>
+
+					</li>
+				                <li class="eael-feature-list-item elementor-repeater-item-f60dc74">
+                    
+						<div class="eael-feature-list-icon-box">
+							<div class="eael-feature-list-icon-inner">
+
+								<span class="eael-feature-list-icon fl-icon-2">
+
+		<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 64 64" aria-labelledby="title" aria-describedby="desc"><title>Server</title><desc>A line styled icon from Orion Icon Library.</desc><rect data-name="layer2" x="2" y="14" width="60" height="48" rx="2" ry="2" fill="none" stroke="#00aed1" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></rect><path data-name="layer2" d="M2.4 14.8L7.4 4A3 3 0 0 1 10 2h44a2.9 2.9 0 0 1 2.5 2l5.2 10.8" fill="none" stroke="#00aed1" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></path><path data-name="layer1" fill="none" stroke="#1778dd" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M54 54H34"></path><path data-name="layer2" fill="none" stroke="#00aed1" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M2 46h60"></path><path data-name="layer1" fill="none" stroke="#1778dd" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M54 38H34m20-16H34"></path><path data-name="layer2" fill="none" stroke="#00aed1" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M2 30h60"></path><circle data-name="layer1" cx="11" cy="22" r="2" fill="none" stroke="#1778dd" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></circle><circle data-name="layer1" cx="11" cy="38" r="2" fill="none" stroke="#1778dd" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></circle><circle data-name="layer1" cx="11" cy="54" r="2" fill="none" stroke="#1778dd" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></circle></svg>								</span>
+							</div>
+						</div>
+						<div class="eael-feature-list-content-box">
+							<h3 class="eael-feature-list-title"							>Size</h3						>
+						<p class="eael-feature-list-content">In general, the bigger the printer the less it costs to run over its lifetime.</p>
+						</div>
+
+					</li>
+							</ul>
+		</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+						</div>
+						</div>
+					</div>
+		<p>The post <a rel="nofollow" href="/cloud.static/printers/">Printers</a> appeared first on <a rel="nofollow" href="/cloud.static/">Cloudland</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Is a cloud server right for me?</title>
+		<link>/cloud.static/is-a-cloud-server-right-for-me/</link>
+		
+		<dc:creator><![CDATA[healthit]]></dc:creator>
+		<pubDate>Thu, 23 May 2019 23:15:56 +0000</pubDate>
+				<category><![CDATA[Cloud]]></category>
+		<guid isPermaLink="false">/cloud.static/?p=179</guid>
+
+					<description><![CDATA[<p>This is something we are asked all the time. The answer depends on how you use your system. The most common use at present is&#8230;</p>
+<p>The post <a rel="nofollow" href="/cloud.static/is-a-cloud-server-right-for-me/">Is a cloud server right for me?</a> appeared first on <a rel="nofollow" href="/cloud.static/">Cloudland</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="179" class="elementor elementor-179" data-elementor-settings="[]">
+						<div class="elementor-inner">
+							<div class="elementor-section-wrap">
+							<section class="elementor-section elementor-top-section elementor-element elementor-element-06d8cb7 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="06d8cb7" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-2221802" data-id="2221802" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-503cfa9 elementor-widget elementor-widget-text-editor" data-id="503cfa9" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<p>This is something we are asked all the time. The answer depends on how you use your system.</p><p>The most common use at present is for travelling professionals. If you spend more time away from your main office than in it, a cloud server is probably the best option for you.</p><p>If you don’t want the hassle of maintaining local servers, and you have fast reliable Internet access, a cloud server is an option that is becoming the choice of many businesses. In a short amount of years it will be unusual to house local servers.</p><p>If you would prefer a flat monthly cost rather than a large capital investment every 4 or 5 years, a cloud server may be the best option for you financially.</p>					</div>
+						</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+						</div>
+						</div>
+					</div>
+		<p>The post <a rel="nofollow" href="/cloud.static/is-a-cloud-server-right-for-me/">Is a cloud server right for me?</a> appeared first on <a rel="nofollow" href="/cloud.static/">Cloudland</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Set up a connection from PC, Mac or Mobile</title>
+		<link>/cloud.static/connect/</link>
+		
+		<dc:creator><![CDATA[healthit]]></dc:creator>
+		<pubDate>Thu, 23 May 2019 06:31:50 +0000</pubDate>
+				<category><![CDATA[Cloud]]></category>
+		<guid isPermaLink="false">/cloud.static/?p=172</guid>
+
+					<description><![CDATA[<p>General Settings Set colour depth to 16 bit.Turn off sound.If you don’t need them, turn off Printer and Clipboard redirection.To authenticate, use CLOUDLANDUsername and the&#8230;</p>
+<p>The post <a rel="nofollow" href="/cloud.static/connect/">Set up a connection from PC, Mac or Mobile</a> appeared first on <a rel="nofollow" href="/cloud.static/">Cloudland</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="172" class="elementor elementor-172" data-elementor-settings="[]">
+						<div class="elementor-inner">
+							<div class="elementor-section-wrap">
+							<section class="elementor-section elementor-top-section elementor-element elementor-element-89b8798 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="89b8798" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-3674db2" data-id="3674db2" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-67ab46e elementor-widget elementor-widget-heading" data-id="67ab46e" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">General Settings</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-fda9130 elementor-widget elementor-widget-text-editor" data-id="fda9130" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<div class="elementor-element elementor-element-6103e79 elementor-widget elementor-widget-heading" data-id="6103e79" data-element_type="widget" data-widget_type="heading.default"><p class="elementor-widget-container">Set colour depth to 16 bit.<br />Turn off sound.<br />If you don’t need them, turn off Printer and Clipboard redirection.<br />To authenticate, use CLOUDLAND\Username and the password given to you.<br />You should have received your own username and password and different credentials to connect to the gateway.</p></div>					</div>
+						</div>
+				</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-f127fcf elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="f127fcf" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-15d763b" data-id="15d763b" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-09eeeae elementor-widget elementor-widget-heading" data-id="09eeeae" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">PC</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-27e4a43 elementor-widget elementor-widget-text-editor" data-id="27e4a43" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<div class="elementor-element elementor-element-6103e79 elementor-widget elementor-widget-heading" data-id="6103e79" data-element_type="widget" data-widget_type="heading.default"><p><img loading="lazy" class="article-img-right alignright wp-image-173 size-full" src="/cloud.static/wp-content/uploads/2019/05/rd-gateway.jpg" alt="Windows setup using gateway.cloudland.net.au" width="267" height="300" />Use the latest version of MicroSoft Terminal Services Client (MSTSC.exe)</p><p>In Advanced – Settings setup your Remote Gateway connection to gateway.cloudland.net.au</p></div>					</div>
+						</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<div class="elementor-element elementor-element-cd22864 elementor-widget elementor-widget-spacer" data-id="cd22864" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-b9fe4fd elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="b9fe4fd" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-dc33f28" data-id="dc33f28" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-b67a784 elementor-widget elementor-widget-heading" data-id="b67a784" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Mac</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-70ffffd elementor-widget elementor-widget-text-editor" data-id="70ffffd" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<div class="elementor-element elementor-element-6103e79 elementor-widget elementor-widget-heading" data-id="6103e79" data-element_type="widget" data-widget_type="heading.default"><p><img loading="lazy" class="article-img-right alignright wp-image-174 size-full" src="/cloud.static/wp-content/uploads/2019/05/rd-gateway-mac.jpg" alt="Mac setup using gateway.cloudland.net.au" width="300" height="144" />Download the latest Microsoft Remote Desktop Client from the App Store</p><p>In Preferences – Gateway add a connection to gateway.cloudland.net.au then select this connection on the front screen.</p></div>					</div>
+						</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<div class="elementor-element elementor-element-7a43239 elementor-widget elementor-widget-spacer" data-id="7a43239" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-e9dd4e8 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="e9dd4e8" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-9c88bb2" data-id="9c88bb2" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-9dee131 elementor-widget elementor-widget-heading" data-id="9dee131" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Mobile</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-685c8c4 elementor-widget elementor-widget-text-editor" data-id="685c8c4" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<div class="elementor-element elementor-element-6103e79 elementor-widget elementor-widget-heading" data-id="6103e79" data-element_type="widget" data-widget_type="heading.default"><p class="elementor-widget-container"><img loading="lazy" class="article-img-right alignright wp-image-175 size-full" src="/cloud.static/wp-content/uploads/2019/05/rd-gateway-mobile.jpg" alt="Mobile setup using gateway.cloudland.net.au" width="300" height="169" />Again in Settings create a Gateway connection to gateway.cloudland.net.au:</p></div>					</div>
+						</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+						</div>
+						</div>
+					</div>
+		<p>The post <a rel="nofollow" href="/cloud.static/connect/">Set up a connection from PC, Mac or Mobile</a> appeared first on <a rel="nofollow" href="/cloud.static/">Cloudland</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Cloudland backup policy</title>
+		<link>/cloud.static/cloudland-backup-policy/</link>
+		
+		<dc:creator><![CDATA[healthit]]></dc:creator>
+		<pubDate>Thu, 23 May 2019 06:26:17 +0000</pubDate>
+				<category><![CDATA[Cloud]]></category>
+		<guid isPermaLink="false">/cloud.static/?p=167</guid>
+
+					<description><![CDATA[<p>Backup Policy – Cloud Servers (not web / email hosting)A full backup of each server is taken nightly.In the event of a server failure, backup&#8230;</p>
+<p>The post <a rel="nofollow" href="/cloud.static/cloudland-backup-policy/">Cloudland backup policy</a> appeared first on <a rel="nofollow" href="/cloud.static/">Cloudland</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="167" class="elementor elementor-167" data-elementor-settings="[]">
+						<div class="elementor-inner">
+							<div class="elementor-section-wrap">
+							<section class="elementor-section elementor-top-section elementor-element elementor-element-aa387b2 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="aa387b2" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-b260b42" data-id="b260b42" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-82a1749 elementor-widget elementor-widget-text-editor" data-id="82a1749" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<p>Backup Policy – Cloud Servers (not web / email hosting)<br />A full backup of each server is taken nightly.<br />In the event of a server failure, backup images are bootable and can be brought online quickly.</p><p>The consolidation policy in place means that at any point in time, data can be retrieved from any day in the last two weeks.</p><p>In addition to these comprehensive on-site backups, off-site backups of critical data are strongly recommended. These are encrypted copies of your database and (optionally) other files, backed up nightly and stored off-site at a secure data centre in another part of Australia. An additional monthly charge of $20 per server will apply.</p><p><span style="text-decoration: underline;"><a href="/cloud.static/backup-policy/">Click here</a></span> to see how backups are created and stored on Cloudland servers</p><p>If you have any questions, please <a href="/contact"><span style="text-decoration: underline;">contact us</span></a></p>					</div>
+						</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+						</div>
+						</div>
+					</div>
+		<p>The post <a rel="nofollow" href="/cloud.static/cloudland-backup-policy/">Cloudland backup policy</a> appeared first on <a rel="nofollow" href="/cloud.static/">Cloudland</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,93 @@
+/*
+Theme Name: Cloudland
+Theme URI: https://pressmaximum.com/customify
+Template: customify
+Author: WPCustomify, HealthIT
+Author URI: https://pressmaximum.com
+Description: Customify is fast, lightweight, responsive and super flexible multipurpose theme built with SEO, speed, and usability in mind. Unleash the power of your imagination with a true WYSIWYG Header &amp; Footer builder (inside the WordPress Customizer) built exclusively for this theme. The theme works great with any of your favorite page builder likes Elementor, Beaver Builder, SiteOrigin, Thrive Architect, Divi, Visual Composer, etc. Combined with the Header &amp; Footer builder, you can build any type of websites like shop, business agencies, corporate, portfolio, education, university portal, consulting, church, restaurant, medical and so on. Customify is compatible with all well-coded plugins, including major ones like WooCommerce, OrbitFox, Yoast, BuddyPress, bbPress, etc. Learn more about the theme and ready to import demo sites at https://pressmaximum.com/customify
+Tags: custom-background,custom-logo,custom-menu,featured-images,flexible-header,footer-widgets,full-width-template,sticky-post,theme-options,threaded-comments,translation-ready,one-column,two-columns,three-columns,left-sidebar,right-sidebar,e-commerce,blog
+Version: 0.3.6.1630901962
+Updated: 2021-09-06 14:19:22
+
+*/
+
+#cb-row--header-main, #site-footer {
+	/* Header bar and footer shadow */
+	-webkit-box-shadow: 0px 0px 15px 0px rgba(0,0,0,0.25);
+		-moz-box-shadow: 0px 0px 15px 0px rgba(0,0,0,0.25);
+			box-shadow: 0px 0px 15px 0px rgba(0,0,0,0.25);
+}
+
+#page-cover {
+	/* Individual page cover styles */
+	-webkit-box-shadow: inset 0px 0px 15px 3px rgba(0,0,0,0.25);
+		-moz-box-shadow: inset 0px 0px 15px 3px rgba(0,0,0,0.25);
+			box-shadow: inset 0px 0px 15px 3px rgba(0,0,0,0.25);
+}
+
+.page-cover-title, #page-cover > div > h1 {
+	/* Individual page cover text */
+	font-family: 'Coda', Sans-serif;
+	font-weight: 500;
+}
+
+body.page-id-57 #page-cover {
+	/* Hide cover on homepage */
+	display: none;
+}
+
+#homebtns {
+	/* Center FAQ / Contact buttons on homepage */
+	text-align: center;
+}
+
+#homebtns a {
+	/* Style the buttons on homepage */
+	border: 2px solid #fff;
+	border-radius: 50px;
+	margin: 20px;
+	padding: 15px 30px;
+	color: #fff;
+	font-weight: 500;
+}
+
+#homebtns a:last-child {
+	/* Hilight the contact button blue */
+	background: #03a9f4;
+	border-color: #03a9f4;
+}
+
+.article-img-left {
+	/* Styling images on pages */
+	border-radius: 4px !important;
+    box-shadow: -2px 5px 30px 0px rgb(0 0 0 / 30%) !important;
+	margin: 5px 20px 20px 0 !important;
+}
+
+.article-img-right {
+	/* Styling images on pages */
+	border-radius: 4px !important;
+    box-shadow: -2px 5px 30px 0px rgb(0 0 0 / 30%) !important;
+	margin: 5px 0 20px 20px !important;
+}
+
+/* Hide Google Captcha badge from pages */
+.grecaptcha-badge {
+    visibility: hidden !important;
+}
+
+#site-footer {
+	/* Center each footer icon/element */
+	text-align: center;
+}
+
+#site-footer svg {
+	/* Resize footer svg icons only */
+	max-width: 80px;
+}
+
+#site-footer i {
+	/* Resize footer font awesome icons */
+	font-size: 2.5rem;
+	margin-right: 10px;
+}
